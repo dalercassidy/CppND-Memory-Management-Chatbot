@@ -16,8 +16,7 @@ private:
 
     //// STUDENT CODE
     ////
-
-    //DELETE: ChatLogic *_chatLogic;
+   
     std::unique_ptr<ChatLogic> _chatLogic;
 
     ////
@@ -30,8 +29,7 @@ public:
 
     // getter / setter
     ChatLogic *GetChatLogicHandle() { return _chatLogic.get(); }
-    //DELETE: std::unique_ptr<ChatLogic> GetChatLogicHandle() { return _chatLogic; }
-
+    
     // events
     void paintEvent(wxPaintEvent &evt);
     void paintNow();
