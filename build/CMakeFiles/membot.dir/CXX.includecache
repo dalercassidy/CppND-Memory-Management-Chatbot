@@ -30,22 +30,6 @@ wx/bitmap.h
 string
 -
 
-/home/dcassidy/workspace/CppND-Memory-Management-Chatbot/src/chatgui.cpp
-wx/filename.h
--
-wx/colour.h
--
-wx/image.h
--
-string
--
-chatbot.h
-/home/dcassidy/workspace/CppND-Memory-Management-Chatbot/src/chatbot.h
-chatlogic.h
-/home/dcassidy/workspace/CppND-Memory-Management-Chatbot/src/chatlogic.h
-chatgui.h
-/home/dcassidy/workspace/CppND-Memory-Management-Chatbot/src/chatgui.h
-
 /home/dcassidy/workspace/CppND-Memory-Management-Chatbot/src/chatgui.h
 wx/wx.h
 -
@@ -84,11 +68,23 @@ string
 chatgui.h
 /home/dcassidy/workspace/CppND-Memory-Management-Chatbot/src/chatgui.h
 
+/home/dcassidy/workspace/CppND-Memory-Management-Chatbot/src/graphedge.cpp
+graphnode.h
+/home/dcassidy/workspace/CppND-Memory-Management-Chatbot/src/graphnode.h
+graphedge.h
+/home/dcassidy/workspace/CppND-Memory-Management-Chatbot/src/graphedge.h
+
 /home/dcassidy/workspace/CppND-Memory-Management-Chatbot/src/graphedge.h
 vector
 -
 string
 -
+
+/home/dcassidy/workspace/CppND-Memory-Management-Chatbot/src/graphnode.cpp
+graphedge.h
+/home/dcassidy/workspace/CppND-Memory-Management-Chatbot/src/graphedge.h
+graphnode.h
+/home/dcassidy/workspace/CppND-Memory-Management-Chatbot/src/graphnode.h
 
 /home/dcassidy/workspace/CppND-Memory-Management-Chatbot/src/graphnode.h
 vector
